@@ -19,7 +19,7 @@ The problem description will be posted [here](overview.md) when the study starts
 We are using a remote screensharing tool to collect data. You should walkthrough [session 0](session0.md) before the study to install the required tools.
 
 ## Tools for Communication
-**Please turn on [Hangouts video conferencing](meet.google.com/qnp-echv-cdj) in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
+**Please turn on [Hangouts video conferencing](https://meet.google.com/qnp-echv-cdj) in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 ## Tools for Collaboration
 Please use [Experimentor](https://experimentor.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
