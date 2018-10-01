@@ -10,8 +10,8 @@
 - Session 4: October 02, 8:00pm - 9:00pm, IST (10:30am - 11:30am, EST)
 
 ## Task Description
-<!-- The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study: -->
-The problem description will be posted here when the study starts. You should submit the following materials at the end of the study:
+The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
+<!-- The problem description will be posted here when the study starts. You should submit the following materials at the end of the study: -->
 
 - A final report in Jupyter Notebook (.ipynb)
 - Prediction result on the test dataset
